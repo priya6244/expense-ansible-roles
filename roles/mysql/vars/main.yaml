@@ -1,0 +1,3 @@
+mysql_root_password: ExpenseApp@1
+#login_host: mysql.haridev.online
+login_host: 172.31.83.156
