@@ -1,4 +1,4 @@
 # Backend_Host: backend.haridev.online
-Backend_Host: 
+Backend_Host: 172.31.83.213
 app_location: /usr/share/nginx/html
 component: frontend
