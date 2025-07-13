@@ -1,5 +1,5 @@
 mysql_root_password: ExpenseApp@1
 #login_host: backend.haridev.online
-login_host: 172.31.83.213
+login_host: 172.31.93.206
 app_location: /app
 component: backend
